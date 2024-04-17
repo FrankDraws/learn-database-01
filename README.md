@@ -8,3 +8,8 @@ Languages:
 - CSS
 - Python/Flask
 - SQLite
+
+# Notes
+Currently using SQLite to build and edit the database.
+
+Another possible database option is to use Google Sheets.
